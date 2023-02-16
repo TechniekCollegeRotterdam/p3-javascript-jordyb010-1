@@ -11,13 +11,18 @@
 //     bud.style.color = "red";
 //     // console.log ("u heeft te weinig geld")
 // }
+
 let getal = 0;
+let output = document.getElementById('getal')
+
 
 function verhoogGetal(){
-    getal++;
-    document.getElementById("getal").innerHTML = getal;
+    output.innerText = getal;
 
     if (getal ===10){
         getal = 0;
+    }
+    else{
+        getal++;
     }
 }
