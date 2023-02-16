@@ -1,8 +1,12 @@
 let budget = 100;
 let product = 60;
+let getId =  document.getElementById("bud");
 
 if (budget > product){
-    console.log ("u heeft genoeg geld");
+    getId.innerText = "u heeft genoeg geld"
+    // console.log ("u heeft genoeg geld");
 } else {
-    console.log ("u heeft te weinig geld")
+    getId.innerText = "u heeft te weinig geld"
+    bud.style.color = "red";
+    // console.log ("u heeft te weinig geld")
 }
