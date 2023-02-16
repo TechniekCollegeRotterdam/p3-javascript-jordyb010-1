@@ -1,5 +1,5 @@
 let budget = 100;
-let product = 60;
+let product = prompt();
 let getId =  document.getElementById("bud");
 
 if (budget > product){
