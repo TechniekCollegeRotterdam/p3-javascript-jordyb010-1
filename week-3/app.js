@@ -15,9 +15,9 @@ let getal = 0;
 
 function verhoogGetal(){
     getal++;
-    document.getElementById("getal").innerHTML = getal;
+    document.getElementById("getal").innerHTML = getal; // dit buiten je functie oproepen in een variabele
 
     if (getal ===10){
         getal = 0;
-    }
+    } // wat moet er in de else?
 }
