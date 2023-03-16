@@ -12,7 +12,12 @@ paragraaf.innerHTML = inputField.value;
 container.appendChild(paragraaf);
 // inputeField dit betekent "" lege string 
 inputField.value = "";
- paragraaf.addEventListener("dblclick", function(){
+
+paragraaf.addEventListener("click", function(){
     paragraaf.style.textDecoration = "line-through";
+ })
+
+ paragraaf.addEventListener("dblclick", function(){
+    container.removeChild = "paragraaf";
  })
 })
