@@ -18,6 +18,6 @@ paragraaf.addEventListener("click", function(){
  })
 
  paragraaf.addEventListener("dblclick", function(){
-    container.removeChild = "paragraaf";
+    container.removeChild(paragraaf);
  })
 })
