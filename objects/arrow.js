@@ -33,7 +33,7 @@ const addMarvel = () =>{
     marvelMovie.push("Blackpanter");
 } 
 
-addMarvel()
+addMarvel();
 
 for(let marvel of marvelMovie){
     console.log(marvel)
