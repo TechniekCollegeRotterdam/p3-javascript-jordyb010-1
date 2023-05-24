@@ -1,0 +1,21 @@
+[
+
+    {
+      "name": "bmw",
+      "model": "m140i",
+      "weight": "1475",
+      "color": "white"
+    },
+    {
+      "name": "nissan",
+      "model": "GTR",
+      "weight": "1750",
+      "color": "white"
+    },
+    {
+      "name": "Audi",
+      "model": "RS3",
+      "weight": "1505",
+      "color": "white"
+    }
+  ]

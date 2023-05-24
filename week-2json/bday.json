@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Bertie Yates",
+        "years":"29 Years",
+        "img": "./img/girl1.jfif"
+
+    },
+    {
+        "name":"jenny baks",
+        "years":"22 years",
+        "img":"./img/girl2.jpg"
+    },
+    {
+        "name":"Roxanne sour",
+        "years":"26 years",
+        "img":"./img/girl3.jfif"
+    },
+    {
+        "name":"Hester Hogan",
+        "years":"18 years",
+        "img":"./img/girl4.jfif"
+    },
+    {
+        "name":"jentl van berge",
+        "years":"20 years",
+        "img":"./img/girl5.jpg"
+    }
+]
