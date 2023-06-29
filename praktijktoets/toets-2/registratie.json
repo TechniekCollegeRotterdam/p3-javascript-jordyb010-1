@@ -1,0 +1,60 @@
+{
+    "registration": [
+      {
+        "id": 2,
+        "name": "senna",
+        "surename": "van de meer",
+        "place": "Rotterdam",
+        "number": "0615715280",
+        "mail": "senna@outlook.com"
+      },
+      {
+        "id": 3,
+        "name": "joep",
+        "surename": "van de meer",
+        "place": "Breda",
+        "number": "0600998877",
+        "mail": "joep@outlook.com"
+      },
+      {
+        "name": "bart",
+        "surename": "de dikke",
+        "place": "ver wegie stan",
+        "number": "062355668899",
+        "mail": "menno@outlook.com",
+        "id": 4
+      },
+      {
+        "name": "Rida",
+        "surename": "Gezer",
+        "place": "Rotterdam",
+        "number": "0624567361",
+        "mail": "Rida@gmail.com",
+        "id": 5
+      },
+      {
+        "name": "nizem",
+        "surename": "van dijke",
+        "place": "Rotterdam",
+        "number": "0624567362",
+        "mail": "nizem@outlook.com",
+        "id": 6
+      },
+      {
+        "name": "Max",
+        "surename": "ver Stappen",
+        "place": "monaco",
+        "number": "0624567363",
+        "mail": "max@outlook.com",
+        "id": 7
+      },
+      {
+        "name": "Snelle",
+        "surename": "Jelle",
+        "place": "amsterdam",
+        "number": "0624567360",
+        "mail": "snelle@outlook.com",
+        "id": 8
+      }
+    ]
+  }
